@@ -3,7 +3,7 @@ Contributors: elearningplugins.com
 Donate link: http://www.elearningplugins.com
 Tags: iSpring, insert, embed, iframe, elearning
 Requires at least: 2.0.2
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: 1.0
 Quickly embed or insert iSpring content into a post or page
 
